@@ -2,3 +2,4 @@ this is test.txt
 
 this file is modified by iss53 branch
 
+modified for checking git branch -vv
